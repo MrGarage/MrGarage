@@ -16,9 +16,9 @@ I am familiar with Android Studio and Adobe Creative Cloud.
 ### Connect With me
 Feel free to reach out to me at any of the links below!
 
-<a href="https://www.linkedin.com/in/rohan-gorajia/"> <img src="https://github.com/MrGarage/MrGarage/blob/main/LinkedinLogoTwo.png" alt="LinkedIn" width="100" height="132">
-<a href="https://github.com/MrGarage"> <img src="ttps://github.com/MrGarage/MrGarage/blob/main/githubLogo.png" alt="LinkedIn" width="100" height="132">
-<a href="mailto: rgorajia01@gmail.com"> <img src="https://github.com/MrGarage/MrGarage/blob/main/mailLogo.png" alt="LinkedIn" width="100" height="132">
+<a href="https://www.linkedin.com/in/rohan-gorajia/"> <img src="https://github.com/MrGarage/MrGarage/blob/main/LinkedinLogoTwo.png" alt="LinkedIn" width="100" height="100">
+<a href="https://github.com/MrGarage"> <img src="https://github.com/MrGarage/MrGarage/blob/main/githubLogo.png" alt="LinkedIn" width="100" height="100">
+<a href="mailto: rgorajia01@gmail.com"> <img src="https://github.com/MrGarage/MrGarage/blob/main/mailLogo.png" alt="LinkedIn" width="100" height="100">
 
 
 
