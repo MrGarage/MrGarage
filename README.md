@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am currently a student at Rutgers University, completing my Bachelors Degree in Computer Engineering in May of 2023. I am going to be starting my Masters Degre in Computer Engineering in September of 2023. 
+I am currently a student at Rutgers University, completing my Masters Degree in Computer Engineering in May of 2024. I completed my Bachelors Degree in Computer Engineering in 2023. 
 
 All of my projects, in both classes and outside of  classes can be seen on [my Github].
 
