@@ -6,6 +6,8 @@ I am currently a student at Rutgers University, completing my Masters Degree in 
 
 All of my projects, in both classes and outside of  classes can be seen on [my Github].
 
+I have written two research papers, and they are both able to be read under [Research Papers].
+
 Currently, outside of classes and teams that I am on, I am working on building a [hardware synthesizer from scratch].
 
 ## Languages and Tools
@@ -25,4 +27,4 @@ Feel free to reach out to me at any of the links below!
 
 [my Github]: https://github.com/MrGarage
 [hardware synthesizer from scratch]: https://github.com/MrGarage/HardwareSynth
-[Researc hPapers]: https://github.com/MrGarage/Research-Papers
+[Research Papers]: https://github.com/MrGarage/Research-Papers
