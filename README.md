@@ -2,7 +2,9 @@
 
 ### About Me
 
-I am currently a student at Rutgers University, completing my Masters Degree in Computer Engineering in May of 2024. I completed my Bachelors Degree in Computer Engineering with a minor in Music Technology in 2023. 
+I am currently a Production Engineer at Kulite Semiconducots Inc. Previously, I have interned at Skyworks Solutions Inc. and Kulite Semiconductors as well. 
+
+I completed Masters Degree in Computer Engineering in May of 2024 with a heavy interest in Signal Processing, following up my Bachelors Degree in Computer Engineering with a minor in Music Technology in 2023. 
 
 All of my projects, in both classes and outside of  classes can be seen on [my Github].
 
@@ -11,7 +13,7 @@ I have written two research papers, and they are both able to be read under [Res
 Currently, outside of classes and teams that I am on, I am working on building a [hardware synthesizer from scratch].
 
 ## Languages and Tools
-I am proficient in Python, Java, MATLAB, Altium Designer, Microsoft Office Suite, Google Drive Suite, Ableton, FL Studio, Audacity, and utilizing the Audio Precision Suite of tools.
+I am proficient in Python, Java, MATLAB, KiCad PCB Designer, Microsoft Office Suite, Google Drive Suite, Ableton, FL Studio, Audacity, and utilizing the Audio Precision Suite of tools.
 
 I am familiar with Android Studio and Adobe Creative Cloud.
 
