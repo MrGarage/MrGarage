@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am currently a Production Engineer at Kulite Semiconducots Inc. Previously, I have interned at Skyworks Solutions Inc. and Kulite Semiconductors as well. 
+I am currently a Production Engineer at Kulite Semiconductors Inc. Previously, I have interned at Skyworks Solutions Inc. and Kulite Semiconductors as well. 
 
 I completed Masters Degree in Computer Engineering in May of 2024 with a heavy interest in Signal Processing, following up my Bachelors Degree in Computer Engineering with a minor in Music Technology in 2023. 
 
